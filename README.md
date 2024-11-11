@@ -1,4 +1,4 @@
-<h1 align="center">Conversor de monedas</h1>
+<h1 align="center">Practicando con Java: Challenge Conversor de Monedas</h1>
 
 <h2>Descripción del proyecto</h2>
 
@@ -60,4 +60,4 @@ Bienvenido a nuestro conversor de monedas
 Eliga una opción:
 
 <h2>Autores del proyecto</h2>
-Esta página web es desarrollado por Alexis Vergara, Chileno, principiante en el mundo de la programación.
+Este "Practicando con Java: Challenge Conversor de Monedas" es desarrollado por Alexis Vergara, Chileno, principiante en el mundo de la programación.
