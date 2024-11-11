@@ -57,7 +57,6 @@ Bienvenido a nuestro conversor de monedas
 11) Mostrar historial de conversiones
 12) Guardar historial en archivo JSON
 13) Salir
-Eliga una opción:
 
 <h2>Autores del proyecto</h2>
 Este "Practicando con Java: Challenge Conversor de Monedas" es desarrollado por Alexis Vergara, Chileno, principiante en el mundo de la programación.
